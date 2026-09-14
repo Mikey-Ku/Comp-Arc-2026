@@ -1,2 +1,7 @@
-# Comp-Arc-2026
-Submissions for Comp Arc Fall 2026
+# Comp Arc 2026
+
+Course project submissions for Computer Architecture, Fall 2026.
+
+## Miniproject 1
+
+[RGB LED color-cycle source files](./Miniproject1)
