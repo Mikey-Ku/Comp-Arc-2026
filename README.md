@@ -6,4 +6,4 @@ Course project submissions for Computer Architecture, Fall 2026.
 
 [RGB LED color-cycle source files](./Miniproject1)
 
-[Video demonstration](https://drive.google.com/file/d/1La-fIqycyx1YyYbemx_hOClyileqW--I/view?usp=sharing)
+[Video demonstration](https://www.youtube.com/shorts/cQbNeFaXSK8)
