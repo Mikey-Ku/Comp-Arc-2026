@@ -4,3 +4,4 @@
 *.json
 *.vvp
 .DS_Store
+*.vcd

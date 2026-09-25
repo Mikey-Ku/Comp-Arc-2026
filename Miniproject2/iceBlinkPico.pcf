@@ -1,0 +1,4 @@
+set_io -nowarn RGB_B 39
+set_io -nowarn RGB_G 40
+set_io -nowarn RGB_R 41
+set_io -nowarn clk   20
